@@ -29,7 +29,7 @@
 
 - ```create a database called php_blog using phpmyAdmin see ``` [php_blogDB.sql](https://github.com/mua-wallace/examPracticals)
 
-- ``` run your application , password is requirement 'mysql' ```
+- ``` run your application , password is required 'mysql' ```
 
 # Contributors
 ![](https://avatars.githubusercontent.com/u/60385803?s=60&v=4)   
